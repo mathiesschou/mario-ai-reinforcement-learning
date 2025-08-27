@@ -1,1 +1,1 @@
-# SMA4-SMB3---RL-project-
+# Super Mario Advance 4 - Super Maris Bros 3 - Reinforcement learning project
